@@ -1,7 +1,7 @@
 <div align="center">
  
 
-Blog 搭建中
+Blog 搭建ing...
 
 </div>
 
